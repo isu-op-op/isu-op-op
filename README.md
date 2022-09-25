@@ -20,7 +20,7 @@
  ━━━━━━━━━━━━━━━━━━━   
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=isu-op-op&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=SUMIT's&show_icons=true&theme=radical)
 <h1> <img src="https://github.com/isu-op-op/isu-op-op/blob/master/resources/codes.webp" width="70px"> Hᴇʏ , ɪтѕ мє ѕυмɪт нєяє </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
